@@ -8,19 +8,19 @@ description: Overview of all addons that will be installed for the complete Stre
 This section covers the addons we use to power discovery, metadata, and streaming. Install in this order for the smoothest experience.
 
 :::: warning Prerequisites Required
-Complete [Accounts](/accounts/overview) first—you’ll paste API keys during addon setup.
+Complete [Accounts](/accounts/overview) first-you’ll paste API keys during addon setup.
 ::::
 
 ## Core Addons (Install These)
 
-1. **AIOStreams** — Aggregates sources, handles debrid integration, catalogs, and more → [/addons/aiostreams](/addons/aiostreams)
-2. **AIOMetadata** — Replaces default metadata provider with TMDB/TVDB/FanArt/RPDB integration → [/addons/aiometadata](/addons/aiometadata)
+1. **AIOStreams** - Aggregates sources, handles debrid integration, catalogs, and more → [/addons/aiostreams](/addons/aiostreams)
+2. **AIOMetadata** - Replaces default metadata provider with TMDB/TVDB/FanArt/RPDB integration → [/addons/aiometadata](/addons/aiometadata)
 
 ## Visual & Tracking Enhancements (Optional)
 
-- **RPDB** — Rating overlays on posters (supports free key)
-- **FanArt** — High‑quality backgrounds and posters
-- **Trakt** — Watch history and recommendations
+- **RPDB** - Rating overlays on posters (supports free key)
+- **FanArt** - High‑quality backgrounds and posters
+- **Trakt** - Watch history and recommendations
 
 ## After Installation
 
