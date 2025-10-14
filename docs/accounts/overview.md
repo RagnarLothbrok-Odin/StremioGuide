@@ -5,8 +5,28 @@ description: Overview of all accounts needed for the complete Stremio setup expe
 
 # Account Creation Overview
 
-Before setting up Stremio, you'll need to create accounts with various services to enhance your streaming experience. This section covers all the accounts you'll need, from essential to optional enhancements.
+Before installing addons, set up the accounts that power metadata, tracking, and high‑quality streaming. Create only what you need today—you can add the optional ones later.
 
-::: info Keep Your Accounts Handy
-For the majority of accounts, we'll use their APIs within the configuration section later in the guide. Make sure to keep your account credentials accessible as you'll need them when we configure the various services and addons.
-:::
+## Categories
+
+### Essential
+- **Stremio**: Your main account for syncing and integrations → [/accounts/stremio](/accounts/stremio)
+- **Debrid provider**: Enables fast, reliable streams (Real‑Debrid or TorBox) → [/accounts/debrid](/accounts/debrid)
+
+### Highly Recommended
+- **TMDB**: Movie/TV metadata and title matching → [/accounts/tmdb](/accounts/tmdb)
+- **TVDB**: TV‑focused metadata coverage → [/accounts/tvdb](/accounts/tvdb)
+
+### Optional Polish
+- **Trakt**: Automatic watch history and recommendations → [/accounts/trakt](/accounts/trakt)
+- **RPDB**: Ratings overlay on posters (free key available) → [/accounts/rpdb](/accounts/rpdb)
+- **FanArt**: High‑quality artwork (free API) → [/accounts/fanart](/accounts/fanart)
+
+## Time & What You'll Need
+
+- 10–20 minutes total
+- Ability to copy/paste API keys later into addons
+
+:::: info Keep Your Keys Handy
+We’ll paste these keys during addon configuration. Store them in a notes app or password manager for quick access.
+::::
