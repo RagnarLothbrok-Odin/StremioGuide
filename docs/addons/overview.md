@@ -5,28 +5,35 @@ description: Overview of all addons that will be installed for the complete Stre
 
 # Addons Overview
 
-This section covers all the addons that will be installed to enhance your Stremio experience. These addons will provide better metadata, enhanced search capabilities, and improved visual elements.
+This section covers the addons we use to power discovery, metadata, and streaming. Install in this order for the smoothest experience.
 
-::: warning Prerequisites Required
-Before installing these addons, make sure you have completed the [Account Creation](/accounts/overview) section. These addons will use API keys from the accounts you created, so having your credentials ready is essential.
-:::
+:::: warning Prerequisites Required
+Complete [Accounts](/accounts/overview) first—you’ll paste API keys during addon setup.
+::::
 
-## Addon Categories
+## Core Addons (Install These)
 
-### Essential Addons
-- **TMDB Addon** - Provides movie metadata and title matching
-- **TVDB Addon** - Provides TV show metadata and episode information
-- **Trakt Addon** - Enables watch history tracking and scrobbling
+1. **AIOStreams** — Aggregates sources, handles debrid integration, catalogs, and more → [/addons/aiostreams](/addons/aiostreams)
+2. **AIOMetadata** — Replaces default metadata provider with TMDB/TVDB/FanArt/RPDB integration → [/addons/aiometadata](/addons/aiometadata)
 
-### Optional Enhancement Addons
-- **RPDB Addon** - Adds ratings to posters for visual enhancement
-- **FanArt Addon** - Provides high-quality artwork and images
+## Visual & Tracking Enhancements (Optional)
+
+- **RPDB** — Rating overlays on posters (supports free key)
+- **FanArt** — High‑quality backgrounds and posters
+- **Trakt** — Watch history and recommendations
+
+## After Installation
+
+- Configure formatting → [/configuration/formatter](/configuration/formatter)
+- Configure filters → [/configuration/filters](/configuration/filters)
+- Finalize addon order → [/addons/cinebye](/addons/cinebye)
 
 ## What You'll Need
 
-Make sure you have the following ready from the Account Creation section:
-- ✅ **TMDB Account** - For movie metadata
-- ✅ **TVDB Account** - For TV show metadata  
-- ✅ **Trakt Account** - For watch history tracking
-- ✅ **RPDB Account** (Optional) - For poster ratings
-- ✅ **FanArt Account** (Optional) - For artwork enhancement
+From the Accounts section:
+- ✅ TMDB (API key)
+- ✅ TVDB (API key)
+- ✅ Debrid provider key (Real‑Debrid or TorBox)
+- ✅ RPDB (optional; `t0-free-rpdb` works)
+- ✅ FanArt (optional; free API)
+- ✅ Trakt (optional)
