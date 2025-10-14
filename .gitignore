@@ -9,11 +9,12 @@
 .env
 
 # ========================
-# Build output
+# VitePress related files
 # ========================
 
-# Build directory
-build/
+# VitePress build cache
+/docs/.vitepress/cache
+/docs/.vitepress/dist
 
 # ========================
 # IDEs and editors
