@@ -72,7 +72,14 @@ export default defineConfig({
           { text: 'FanArt', link: '/accounts/fanart' },
           { text: 'RPDB', link: '/accounts/rpdb' },
         ],
-      }
+      },
+      {
+        text: 'Preparing Your Account',
+        collapsed: false,
+        items: [
+          { text: 'Prepare', link: '/stremio' },
+        ],
+      },
     ],
 
     socialLinks: [
