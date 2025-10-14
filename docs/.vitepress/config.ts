@@ -59,6 +59,19 @@ export default defineConfig({
         items: [
           { text: 'Overview', link: '/overview' },
         ],
+      },
+      {
+        text: 'Account Creation',
+        collapsed: false,
+        items: [
+          { text: 'Overview', link: '/accounts/overview' },
+          { text: 'Stremio', link: '/accounts/stremio' },
+          { text: 'Trakt', link: '/accounts/trakt' },
+          { text: 'TMDB', link: '/accounts/tmdb' },
+          { text: 'TVDB', link: '/accounts/tvdb' },
+          { text: 'FanArt', link: '/accounts/fanart' },
+          { text: 'RPDB', link: '/accounts/rpdb' },
+        ],
       }
     ],
 
