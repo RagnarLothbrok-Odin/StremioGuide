@@ -1,2 +1,2 @@
 User-agent: *
-Sitemap: https://stremio.inoaffordgooddomainname.xyz/sitemap.xml
+Sitemap: https://stremio.valhalladev.org/sitemap.xml
