@@ -86,6 +86,15 @@ export default defineConfig({
           { text: 'AIOMetadata', link: '/addons/aiometadata' },
           { text: 'Cinebye', link: '/addons/cinebye' },
         ],
+      },
+      {
+        text: "Configuration",
+        collapsed: false,
+        items: [
+          { text: 'Formatter', link: '/configuration/formatter' },
+        ],
+      },
+      {
       }
     ],
 
