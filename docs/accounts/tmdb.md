@@ -3,25 +3,21 @@ title: TMDB Account
 description: Step-by-step guide to create your TMDB account
 ---
 
-# TMDB Account Creation
+# TMDB Account
 
-Creating a TMDB (The Movie Database) account allows you to access comprehensive movie and TV show metadata In Stremio, TMDB is used to replace the default metadata provider (which most users don't recommend) and improve search results through title matching (which we will configure later in the guide)
+TMDB provides rich movie/TV metadata used by AIOMetadata and improves title matching in search.
 
-::: tip Optional but Highly Recommended
-TMDB is not required for basic Stremio functionality, but it's highly recommended as it provides essential movie and TV show metadata, posters, descriptions, and other information that significantly enhances your streaming experience. We'll explain its importance in detail later in the guide.
-:::
+## Create Your Account
 
-## Step-by-Step Guide
+- Open: [TMDB signup](https://www.themoviedb.org/signup)
+- Complete the sign‑up and verify email
 
-### Step 1: Visit the Official Website
+## Get Your API Key
 
-Navigate to the official TMDB signup page: [https://www.themoviedb.org/signup](https://www.themoviedb.org/signup)
+1. Go to your profile → **Settings** → **API**
+2. Create a new API key (read access is sufficient for our use)
+3. Copy the key-you’ll paste it into AIOMetadata/AIOStreams later
 
-### Step 2: Create Your Account
-
-Fill out the signup form with the following information:
-
-1. **Username**
-2. **Password**
-3. **Password Confirm**
-4. **Email**
+:::: tip Why TMDB?
+Better metadata and matching than Stremio’s default provider; pairs well with TVDB for TV coverage.
+::::
