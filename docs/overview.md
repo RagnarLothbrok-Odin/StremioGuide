@@ -5,10 +5,10 @@ description: Complete guide to setting up Stremio from account creation to addon
 
 # Stremio Setup Guide
 
-Welcome—this guide takes you from a clean slate to a fast, reliable, and visually polished Stremio setup. It’s opinionated where it matters (quality, speed, organization) and flexible where it should be (addons, artwork, lists).
+Welcome, this guide takes you from a clean slate to a fast, reliable, and visually polished Stremio setup. It’s opinionated where it matters (quality, speed, organization) and flexible where it should be (addons, artwork, lists).
 
 :::: tip What is Stremio?
-Stremio is a modern media center for movies, shows, and more—powered by community addons. You assemble your experience by installing addons for discovery, metadata, and streaming.
+Stremio is a modern media center for movies, shows, and more-powered by community addons. You assemble your experience by installing addons for discovery, metadata, and streaming.
 ::::
 
 ## What You'll Build
