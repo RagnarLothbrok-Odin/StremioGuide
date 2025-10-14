@@ -96,6 +96,11 @@ export default defineConfig({
         ],
       },
       {
+        text: "Troubleshooting",
+        collapsed: false,
+        items: [
+          { text: 'Overview', link: '/troubleshooting/overview' },
+        ],
       }
     ],
 
