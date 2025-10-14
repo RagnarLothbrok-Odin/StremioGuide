@@ -12,9 +12,6 @@ hero:
       text: Get Started
       link: overview
     - theme: alt
-      text: Full Setup
-      link: accounts/overview
-    - theme: alt
       text: Addons
       link: addons/overview
     - theme: alt
@@ -24,7 +21,7 @@ hero:
 features:
   - icon: 🎬
     title: End‑to‑End Setup
-    details: From accounts to addons to formatting—follow a clean, linear path to a great result.
+    details: From accounts to addons to formatting-follow a clean, linear path to a great result.
   - icon: ⚡
     title: Fast, High‑Quality Streams
     details: Practical defaults that prioritize cached, high‑quality sources for smooth playback.
