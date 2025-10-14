@@ -55,11 +55,9 @@ export default defineConfig({
 
     sidebar: [
       {
-        text: 'Prerequisites',
-        collapsed: false,
+        text: 'Getting Started',
         items: [
           { text: 'Overview', link: '/prerequisites/overview' },
-          { text: 'Choosing a Hoster', link: '/prerequisites/choosing-a-hoster' },
         ],
       }
     ],
