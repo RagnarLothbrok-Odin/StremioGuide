@@ -15,7 +15,7 @@ Navigate to the official Stremio website: [https://web.stremio.com/#/intro](http
 
 ### Step 2: Create Your Account
 
-1. **Enter your email address** - Use a valid email you have access to
-2. **Create a strong password** - Include numbers, letters, and special characters
-3. **Confirm your password** - Make sure both passwords match
-4. **Click "Sign Up"** to create your account
+1. **Enter your email address**
+2. **Create a strong password**
+3. **Confirm your password**
+4. **Click "Sign Up"**
