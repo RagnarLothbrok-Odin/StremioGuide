@@ -92,6 +92,7 @@ export default defineConfig({
         collapsed: false,
         items: [
           { text: 'Formatter', link: '/configuration/formatter' },
+          { text: 'Filters', link: '/configuration/filters' },
         ],
       },
       {
