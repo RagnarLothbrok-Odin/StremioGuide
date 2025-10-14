@@ -3,25 +3,20 @@ title: FanArt Account
 description: Step-by-step guide to create your FanArt account
 ---
 
-# FanArt Account Creation
+# FanArt Account (Optional)
 
-Creating a FanArt account allows you to access high-quality artwork and images for movies and TV shows. FanArt provides premium artwork that enhances the visual experience in Stremio with better posters, backgrounds, and other visual elements.
+FanArt provides high‑quality artwork for posters and backdrops. We’ll use its free API.
 
-::: tip Optional Enhancement
-FanArt is not required for any Stremio functionality, but it provides high-quality artwork and images that enhance the visual experience. We'll configure the free API later in the guide.
-:::
+## Create Your Account
 
-## Step-by-Step Guide
+- Open: [FanArt registration](https://fanart.tv/wp-login.php?action=register)
+- Complete registration and verify email
 
-### Step 1: Visit the Official Website
+## Get API Access
 
-Navigate to the official FanArt signup page: [https://fanart.tv/wp-login.php?action=register](https://fanart.tv/wp-login.php?action=register)
+- After login, request/free API access from your profile if prompted
+- Copy the API key-you’ll paste it into AIOMetadata later
 
-### Step 2: Create Your Account
-
-Fill out the signup form with the following information:
-
-1. **Username**
-2. **Email**
-3. **Password**
-4. **Password Confirm**
+:::: tip Optional Enhancement
+Artwork quality is subjective; this simply makes things look nicer.
+::::
