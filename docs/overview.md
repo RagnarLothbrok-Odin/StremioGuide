@@ -5,30 +5,38 @@ description: Complete guide to setting up Stremio from account creation to addon
 
 # Stremio Setup Guide
 
-## Overview
+Welcome—this guide takes you from a clean slate to a fast, reliable, and visually polished Stremio setup. It’s opinionated where it matters (quality, speed, organization) and flexible where it should be (addons, artwork, lists).
 
-Welcome to the comprehensive Stremio setup guide! This guide will walk you through everything you need to know to get Stremio up and running perfectly on your device.
+:::: tip What is Stremio?
+Stremio is a modern media center for movies, shows, and more—powered by community addons. You assemble your experience by installing addons for discovery, metadata, and streaming.
+::::
 
-::: tip What is Stremio?
-Stremio is a modern media center that gives you access to movies, TV series, live TV, and web channels. It's like Netflix, but with access to content from various sources through addons.
-:::
+## What You'll Build
 
-### What You'll Learn
+- **Accounts**: Create only the accounts you actually need, with clear reasons why
+- **Core Addons**: Install a small set that covers discovery, metadata, and streaming
+- **Configuration**: Import copy‑paste configs for filters and formatting
+- **Polish**: Optional artwork and poster‑rating enhancements
 
-This guide covers the complete Stremio setup process from start to finish:
+## Who This Guide Is For
 
-- **Account Creation**: How to create and set up your Stremio account
-- **Application Installation**: Installing Stremio on your preferred platform  
-- **Addon Management**: Finding, installing, and managing essential addons
-- **Configuration**: Optimizing settings for the best streaming experience
+- New users who want a clean, reliable setup fast
+- Power users who want sensible defaults and the ability to tweak
 
-### Prerequisites
-
+## Prerequisites
 
 - A stable internet connection
-- Your preferred device (Windows, macOS, Linux, Android, iOS, or Smart TV)
-- Basic computer/device knowledge
+- A device running Windows, macOS, Linux, Android, iOS, or a Smart TV
+- Basic familiarity with installing apps and copying keys
 
-::: warning Important Note
-This guide reflects my personal setup preferences as a daily Stremio user. What constitutes a "good" setup is highly subjective and varies from person to person. By following this guide, you'll learn the fundamentals and develop the skills to customize your setup according to your own preferences.
-:::
+## Fast Path (Recommended Order)
+
+1. Create essential accounts → [Accounts Overview](/accounts/overview)
+2. Prepare your Stremio account → [Preparations](/preperations/cinebye)
+3. Install core addons → [Addons Overview](/addons/overview)
+4. Configure formatting and filters → [Configuration](/configuration/formatter)
+5. Finalize addon order → [Final Cinebye Step](/addons/cinebye)
+
+:::: warning About Preferences
+This guide reflects an everyday Stremio setup that prioritizes quality and speed. Preferences differ; you can always diverge once you understand the moving parts.
+::::
