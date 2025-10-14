@@ -3,37 +3,21 @@ title: Trakt Account
 description: Step-by-step guide to create your Trakt account
 ---
 
-# Trakt Account Creation
+# Trakt Account
 
-Creating a Trakt account allows you to track your TV shows and movies. Trakt integrates seamlessly with Stremio for enhanced tracking and recommendations.
+Trakt tracks what you watch and powers recommendations. We’ll connect it to Stremio later.
 
-::: tip Optional but Recommended
-Trakt is not required for basic Stremio functionality, but it significantly enhances your streaming experience with automatic tracking and personalized recommendations.
-:::
+## Sign Up
 
-## Step-by-Step Guide
+- Open: [Trakt sign up](https://trakt.tv/auth/signup_method)
+- Choose Email, Apple, or Google and complete sign‑up
 
-### Step 1: Visit the Official Website
+## Where You’ll Connect It
 
-Navigate to the official Trakt signup page: [https://trakt.tv/auth/signup_method](https://trakt.tv/auth/signup_method)
+Later, from Stremio’s Integrations page:
 
-### Step 2: Choose Your Signup Method
+- Open: [Stremio Account Login](https://www.stremio.com/login) → **Integrations** → **Trakt Scrobbling** → **Authenticate**
 
-Trakt offers multiple signup options:
-
-1. **Join with Email**
-   - Click "Join with Email" button
-   - Enter your email address
-   - Create a strong password
-   - Confirm your password
-   - Click "Sign Up"
-
-2. **Join with Apple**
-   - Click "Join with Apple" button
-   - Use your Apple ID credentials
-   - Follow Apple's authentication process
-
-3. **Join with Google**
-   - Click "Join with Google" button
-   - Use your Google account credentials
-   - Follow Google's authentication process
+:::: tip Optional but Helpful
+Automatic scrobbling keeps your watch history in sync across apps, note that Stremio will still automatically sync across your account with or without Trakt.
+::::
