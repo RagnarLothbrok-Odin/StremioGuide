@@ -57,7 +57,7 @@ export default defineConfig({
       {
         text: 'Getting Started',
         items: [
-          { text: 'Overview', link: '/prerequisites/overview' },
+          { text: 'Overview', link: '/overview' },
         ],
       }
     ],

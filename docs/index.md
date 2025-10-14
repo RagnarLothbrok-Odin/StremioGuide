@@ -10,7 +10,7 @@ hero:
   actions:
     - theme: brand
       text: Get Started
-      link: prerequisites/overview
+      link: overview
 
 features:
   - icon: 🎬
