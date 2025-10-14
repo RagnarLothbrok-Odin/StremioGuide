@@ -3,19 +3,26 @@ title: Stremio Account
 description: Step-by-step guide to create your Stremio account
 ---
 
-# Stremio Account Creation
+# Stremio Account
 
-Creating a Stremio account is the first step to accessing your personalized streaming experience. This account will sync your library, watch history, and preferences across all your devices.
+Create your Stremio account first-this syncs your library, history, and preferences across devices and enables integrations like Trakt.
 
-## Step-by-Step Guide
+## Step 1 - Create Your Account
 
-### Step 1: Visit the Official Website
+- Open: [Stremio Web](https://web.stremio.com/#/intro)
+- Click **Sign Up** and complete the form
+- Verify your email if prompted
 
-Navigate to the official Stremio website: [https://web.stremio.com/#/intro](https://web.stremio.com/#/intro)
+## Step 2 - Install the App (Recommended)
 
-### Step 2: Create Your Account
+- Desktop: [Downloads](https://www.stremio.com/downloads)
+- Mobile/Web: use the web app above
 
-1. **Enter your email address**
-2. **Create a strong password**
-3. **Confirm your password**
-4. **Click "Sign Up"**
+Sign in with the account you created so your settings sync across devices.
+
+## Step 3 - Where Integrations Live
+
+Later, you’ll connect Trakt from Stremio’s integrations page:
+
+- Open: [Stremio Account Login](https://www.stremio.com/login)
+- After login, go to **Integrations** → connect services (e.g., Trakt)
