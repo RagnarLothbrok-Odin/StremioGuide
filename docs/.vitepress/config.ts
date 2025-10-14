@@ -83,7 +83,6 @@ export default defineConfig({
         items: [
           { text: 'Overview', link: '/addons/overview' },
           { text: 'AIOStreams', link: '/addons/aiostreams' },
-          { text: 'AIOLists', link: '/addons/aiolists' },
           { text: 'AIOMetadata', link: '/addons/aiometadata' },
         ],
       }
