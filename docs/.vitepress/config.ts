@@ -78,6 +78,7 @@ export default defineConfig({
         collapsed: false,
         items: [
           { text: 'Cinebye', link: '/preperations/cinebye' },
+          { text: 'Trakt', link: '/preperations/trakt' },
         ],
       },
     ],
