@@ -5,7 +5,7 @@ description: Overview of all accounts needed for the complete Stremio setup expe
 
 # Account Creation Overview
 
-Before installing addons, set up the accounts that power metadata, tracking, and high‑quality streaming. Create only what you need today—you can add the optional ones later.
+Before installing addons, set up the accounts that power metadata, tracking, and high‑quality streaming. Create only what you need today-you can add the optional ones later.
 
 ## Categories
 
