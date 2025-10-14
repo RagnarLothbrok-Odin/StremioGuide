@@ -1,93 +1,79 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://stremio.valhalladev.org/</loc>
-    <lastmod>2025-10-14T19:00:00+01:00</lastmod>
-    <priority>1.0</priority>
+    <loc>https://stremio.valhalladev.org/index.md</loc>
+    <lastmod>2025-10-14T19:04:23+01:00</lastmod>
   </url>
   <url>
-    <loc>https://stremio.valhalladev.org/overview</loc>
-    <lastmod>2025-10-14T19:00:00+01:00</lastmod>
-    <priority>0.9</priority>
+    <loc>https://stremio.valhalladev.org/overview.md</loc>
+    <lastmod>2025-10-14T19:04:28+01:00</lastmod>
   </url>
   <url>
-    <loc>https://stremio.valhalladev.org/accounts/overview</loc>
-    <lastmod>2025-10-14T19:00:00+01:00</lastmod>
-    <priority>0.8</priority>
+    <loc>https://stremio.valhalladev.org/accounts/debrid.md</loc>
+    <lastmod>2025-10-14T19:01:51+01:00</lastmod>
   </url>
   <url>
-    <loc>https://stremio.valhalladev.org/accounts/stremio</loc>
-    <lastmod>2025-10-14T19:00:00+01:00</lastmod>
-    <priority>0.8</priority>
+    <loc>https://stremio.valhalladev.org/accounts/fanart.md</loc>
+    <lastmod>2025-10-14T19:01:57+01:00</lastmod>
   </url>
   <url>
-    <loc>https://stremio.valhalladev.org/accounts/debrid</loc>
-    <lastmod>2025-10-14T19:00:00+01:00</lastmod>
-    <priority>0.8</priority>
+    <loc>https://stremio.valhalladev.org/accounts/overview.md</loc>
+    <lastmod>2025-10-14T19:02:02+01:00</lastmod>
   </url>
   <url>
-    <loc>https://stremio.valhalladev.org/accounts/tmdb</loc>
-    <lastmod>2025-10-14T19:00:00+01:00</lastmod>
-    <priority>0.8</priority>
+    <loc>https://stremio.valhalladev.org/accounts/rpdb.md</loc>
+    <lastmod>2025-10-14T19:02:09+01:00</lastmod>
   </url>
   <url>
-    <loc>https://stremio.valhalladev.org/accounts/tvdb</loc>
-    <lastmod>2025-10-14T19:00:00+01:00</lastmod>
-    <priority>0.8</priority>
+    <loc>https://stremio.valhalladev.org/accounts/stremio.md</loc>
+    <lastmod>2025-10-14T19:02:13+01:00</lastmod>
   </url>
   <url>
-    <loc>https://stremio.valhalladev.org/accounts/trakt</loc>
-    <lastmod>2025-10-14T19:00:00+01:00</lastmod>
-    <priority>0.7</priority>
+    <loc>https://stremio.valhalladev.org/accounts/tmdb.md</loc>
+    <lastmod>2025-10-14T19:02:19+01:00</lastmod>
   </url>
   <url>
-    <loc>https://stremio.valhalladev.org/accounts/fanart</loc>
-    <lastmod>2025-10-14T19:00:00+01:00</lastmod>
-    <priority>0.7</priority>
+    <loc>https://stremio.valhalladev.org/accounts/trakt.md</loc>
+    <lastmod>2025-10-14T19:02:28+01:00</lastmod>
   </url>
   <url>
-    <loc>https://stremio.valhalladev.org/accounts/rpdb</loc>
-    <lastmod>2025-10-14T19:00:00+01:00</lastmod>
-    <priority>0.7</priority>
+    <loc>https://stremio.valhalladev.org/accounts/tvdb.md</loc>
+    <lastmod>2025-10-14T19:02:34+01:00</lastmod>
   </url>
   <url>
-    <loc>https://stremio.valhalladev.org/addons/overview</loc>
-    <lastmod>2025-10-14T19:00:00+01:00</lastmod>
-    <priority>0.8</priority>
+    <loc>https://stremio.valhalladev.org/addons/aiometadata.md</loc>
+    <lastmod>2025-10-14T19:02:38+01:00</lastmod>
   </url>
   <url>
-    <loc>https://stremio.valhalladev.org/addons/aiostreams</loc>
-    <lastmod>2025-10-14T19:00:00+01:00</lastmod>
-    <priority>0.9</priority>
+    <loc>https://stremio.valhalladev.org/addons/aiostreams.md</loc>
+    <lastmod>2025-10-14T19:03:56+01:00</lastmod>
   </url>
   <url>
-    <loc>https://stremio.valhalladev.org/addons/aiometadata</loc>
-    <lastmod>2025-10-14T19:00:00+01:00</lastmod>
-    <priority>0.8</priority>
+    <loc>https://stremio.valhalladev.org/addons/cinebye.md</loc>
+    <lastmod>2025-10-14T19:04:02+01:00</lastmod>
   </url>
   <url>
-    <loc>https://stremio.valhalladev.org/addons/cinebye</loc>
-    <lastmod>2025-10-14T19:00:00+01:00</lastmod>
-    <priority>0.8</priority>
+    <loc>https://stremio.valhalladev.org/addons/overview.md</loc>
+    <lastmod>2025-10-14T19:04:07+01:00</lastmod>
   </url>
   <url>
-    <loc>https://stremio.valhalladev.org/preperations/cinebye</loc>
-    <lastmod>2025-10-14T19:00:00+01:00</lastmod>
-    <priority>0.8</priority>
+    <loc>https://stremio.valhalladev.org/configuration/filters.md</loc>
+    <lastmod>2025-10-14T19:04:11+01:00</lastmod>
   </url>
   <url>
-    <loc>https://stremio.valhalladev.org/preperations/trakt</loc>
-    <lastmod>2025-10-14T19:00:00+01:00</lastmod>
-    <priority>0.7</priority>
+    <loc>https://stremio.valhalladev.org/configuration/formatter.md</loc>
+    <lastmod>2025-10-14T19:04:15+01:00</lastmod>
   </url>
   <url>
-    <loc>https://stremio.valhalladev.org/configuration/formatter</loc>
-    <lastmod>2025-10-14T19:00:00+01:00</lastmod>
-    <priority>0.7</priority>
+    <loc>https://stremio.valhalladev.org/preperations/cinebye.md</loc>
+    <lastmod>2025-10-14T19:04:33+01:00</lastmod>
   </url>
   <url>
-    <loc>https://stremio.valhalladev.org/configuration/filters</loc>
-    <lastmod>2025-10-14T19:00:00+01:00</lastmod>
-    <priority>0.7</priority>
+    <loc>https://stremio.valhalladev.org/preperations/trakt.md</loc>
+    <lastmod>2025-10-14T19:04:37+01:00</lastmod>
+  </url>
+  <url>
+    <loc>https://stremio.valhalladev.org/troubleshooting/overview.md</loc>
+    <lastmod>2025-10-14T21:55:45+01:00</lastmod>
   </url>
 </urlset>
