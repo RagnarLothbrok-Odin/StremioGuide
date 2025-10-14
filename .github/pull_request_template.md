@@ -8,6 +8,7 @@ Please check the type of change your PR introduces:
 
 - [ ] Bugfix
 - [ ] Feature
+- [ ] Documentation content changes
 
 ## What is the current behavior?
 
