@@ -84,6 +84,7 @@ export default defineConfig({
           { text: 'Overview', link: '/addons/overview' },
           { text: 'AIOStreams', link: '/addons/aiostreams' },
           { text: 'AIOMetadata', link: '/addons/aiometadata' },
+          { text: 'Cinebye', link: '/addons/cinebye' },
         ],
       }
     ],
