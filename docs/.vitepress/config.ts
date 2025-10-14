@@ -77,7 +77,7 @@ export default defineConfig({
         text: 'Preparing Your Account',
         collapsed: false,
         items: [
-          { text: 'Prepare', link: '/stremio' },
+          { text: 'Prepare', link: '/preperations/cinebye' },
         ],
       },
     ],
