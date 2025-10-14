@@ -44,11 +44,6 @@ export default defineConfig({
 
     outline: [2, 3],
 
-    editLink: {
-      pattern: "https://github.com/RagnarLothbrok-Odin/Stremio-Setup/edit/main/docs/:path",
-      text: "Edit this page on GitHub",
-    },
-
     nav: [
       { text: 'Home', link: '/' },
     ],
@@ -67,6 +62,7 @@ export default defineConfig({
           { text: 'Overview', link: '/accounts/overview' },
           { text: 'Stremio', link: '/accounts/stremio' },
           { text: 'Trakt', link: '/accounts/trakt' },
+          { text: 'Debrid', link: '/accounts/debrid' },
           { text: 'TMDB', link: '/accounts/tmdb' },
           { text: 'TVDB', link: '/accounts/tvdb' },
           { text: 'FanArt', link: '/accounts/fanart' },
@@ -81,6 +77,16 @@ export default defineConfig({
           { text: 'Trakt', link: '/preperations/trakt' },
         ],
       },
+      {
+        text: "Installing Addons",
+        collapsed: false,
+        items: [
+          { text: 'Overview', link: '/addons/overview' },
+          { text: 'AIOStreams', link: '/addons/aiostreams' },
+          { text: 'AIOLists', link: '/addons/aiolists' },
+          { text: 'AIOMetadata', link: '/addons/aiometadata' },
+        ],
+      }
     ],
 
     socialLinks: [
