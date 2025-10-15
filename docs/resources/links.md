@@ -1,0 +1,34 @@
+---
+title: Links
+description: Official sites, addon pages, and services referenced throughout this guide
+---
+
+# Links
+
+A curated set of official pages and tools used in this guide.
+
+### Stremio
+- [Stremio](https://www.stremio.com)
+- [Stremio Addon Browser](https://stremio-addons.net)
+
+### Addons
+- [AIOStreams](https://github.com/Viren070/AIOStreams)
+- [AIOStreams Discord](https://discord.viren070.me)
+- [AIOLists](https://aiolists.elfhosted.com)
+- [Torrentio](https://torrentio.strem.fun)
+- [Comet](https://comet.elfhosted.com)
+- [MediaFusion](https://mediafusion.elfhosted.com)
+- [TorrentsDB](https://torrentsdb.com)
+- [StremThru Torz](https://stremthru.13377001.xyz/stremio/torz)
+- [OpenSubtitles](https://opensubtitles.stremio.homes)
+### Debrid Services
+- [Premiumize](https://www.premiumize.me)
+- [Real‑Debrid](https://real-debrid.com)
+- [TorBox](https://www.torbox.app/subscription?referral=02e0e0f8-0277-43db-bcfb-3a734c93ddd7)
+- [Debridio](https://debridio.com)
+- [Debrid Comparison](https://github.com/fynks/debrid-services-comparison)
+
+## Special Thanks
+- The Stremio team for tirelessly maintaining the app
+- All addon developers who build and maintain the ecosystem
+- [Viren070](https://github.com/Viren070) for the countless hours poured into `AIOStreams`, unifying many addons under one configurable experience
