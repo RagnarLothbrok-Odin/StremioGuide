@@ -22,7 +22,7 @@
   </url>
   <url>
     <loc>https://stremio.valhalladev.org/accounts/rpdb.md</loc>
-    <lastmod>2025-10-14T19:02:09+01:00</lastmod>
+    <lastmod>2025-10-15T12:19:47+01:00</lastmod>
   </url>
   <url>
     <loc>https://stremio.valhalladev.org/accounts/stremio.md</loc>
@@ -42,11 +42,11 @@
   </url>
   <url>
     <loc>https://stremio.valhalladev.org/addons/aiometadata.md</loc>
-    <lastmod>2025-10-14T19:02:38+01:00</lastmod>
+    <lastmod>2025-10-15T12:26:52+01:00</lastmod>
   </url>
   <url>
     <loc>https://stremio.valhalladev.org/addons/aiostreams.md</loc>
-    <lastmod>2025-10-14T19:03:56+01:00</lastmod>
+    <lastmod>2025-10-15T12:24:40+01:00</lastmod>
   </url>
   <url>
     <loc>https://stremio.valhalladev.org/addons/cinebye.md</loc>
@@ -66,14 +66,22 @@
   </url>
   <url>
     <loc>https://stremio.valhalladev.org/preperations/cinebye.md</loc>
-    <lastmod>2025-10-14T19:04:33+01:00</lastmod>
+    <lastmod>2025-10-15T12:21:24+01:00</lastmod>
   </url>
   <url>
     <loc>https://stremio.valhalladev.org/preperations/trakt.md</loc>
-    <lastmod>2025-10-14T19:04:37+01:00</lastmod>
+    <lastmod>2025-10-15T12:19:47+01:00</lastmod>
+  </url>
+  <url>
+    <loc>https://stremio.valhalladev.org/resources/links.md</loc>
+    <lastmod>2025-10-15T13:25:55+01:00</lastmod>
+  </url>
+  <url>
+    <loc>https://stremio.valhalladev.org/resources/trakt.md</loc>
+    <lastmod>2025-10-15T13:29:52+01:00</lastmod>
   </url>
   <url>
     <loc>https://stremio.valhalladev.org/troubleshooting/overview.md</loc>
-    <lastmod>2025-10-14T21:55:45+01:00</lastmod>
+    <lastmod>2025-10-15T12:19:47+01:00</lastmod>
   </url>
 </urlset>
