@@ -52,7 +52,8 @@ export default defineConfig({
       options: {
         appId: process.env.APP_ID as string,
         apiKey: process.env.API_KEY as string,
-        indexName: process.env.INDEX_NAME as string
+        indexName: process.env.INDEX_NAME as string,
+        askAi: process.env.ASK_AI as string,
       }
     },
 
