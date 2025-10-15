@@ -96,6 +96,14 @@ export default defineConfig({
         ],
       },
       {
+        text: "Resources",
+        collapsed: false,
+        items: [
+          { text: 'Trakt Lists', link: '/resources/trakt' },
+          { text: 'Links', link: '/resources/links' },
+        ],
+      },
+      {
         text: "Troubleshooting",
         collapsed: false,
         items: [
