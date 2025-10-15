@@ -11,7 +11,7 @@ description: Common issues and quick fixes for Stremio and Trakt
 One of the most common reasons an item refuses to play is an expired debrid subscription. It's easy to miss a renewal, and it isn't always obvious when your account has lapsed. Check your debrid status first.
 
 ### No Search Results
-This can happen with this configuration because we [disabled Cinemeta search](/preperations/cinebye) to reduce duplicate results. On rare occasions, TMDB's API may also experience an outage, which results in no search results. Your options are to wait for it to recover or re‑enable Cinemeta search; there isn't much downside to running both, other than duplicate results. It is also possible that search may take slightly longer to return results.
+This can happen with this configuration because we [disabled Cinemeta search](/preparations/cinebye) to reduce duplicate results. On rare occasions, TMDB's API may also experience an outage, which results in no search results. Your options are to wait for it to recover or re‑enable Cinemeta search; there isn't much downside to running both, other than duplicate results. It is also possible that search may take slightly longer to return results.
 
 ### No Audio
 It's rare but possible to encounter an audio codec your device doesn't support. This is more common on desktop environments than on Android TV devices. If this happens, either select a source with a supported audio codec or exclude the unsupported codec in your AIOStreams filters. [See filters](/configuration/filters).

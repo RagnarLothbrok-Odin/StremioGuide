@@ -81,8 +81,8 @@ export default defineConfig({
         text: 'Preparing Your Account',
         collapsed: false,
         items: [
-          { text: 'Cinebye', link: '/preperations/cinebye' },
-          { text: 'Trakt', link: '/preperations/trakt' },
+          { text: 'Cinebye', link: '/preparations/cinebye' },
+          { text: 'Trakt', link: '/preparations/trakt' },
         ],
       },
       {

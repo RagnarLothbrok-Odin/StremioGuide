@@ -32,7 +32,7 @@ Stremio is a modern media center for movies, shows, and more-powered by communit
 ## Fast Path (Recommended Order)
 
 1. Create essential accounts → [Accounts Overview](/accounts/overview)
-2. Prepare your Stremio account → [Preparations](/preperations/cinebye)
+2. Prepare your Stremio account → [Preparations](/preparations/cinebye)
 3. Install core addons → [Addons Overview](/addons/overview)
 4. Configure formatting and filters → [Configuration](/configuration/formatter)
 5. Finalize addon order → [Final Cinebye Step](/addons/cinebye)
