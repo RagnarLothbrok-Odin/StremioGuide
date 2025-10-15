@@ -14,7 +14,7 @@ Tune Stremio with Cinebye so your addon stack behaves consistently.
 
 ## 2) Options (Cinemeta)
 
-Enable all three in **2 Options**:
+In the **2 Options** section, enable all three checkboxes:
 
 - ✅ Remove Cinemeta Search
 - ✅ Remove Cinemeta Catalogs
