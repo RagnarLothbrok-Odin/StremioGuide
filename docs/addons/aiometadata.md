@@ -19,11 +19,11 @@ AIOMetadata replaces Stremio’s default metadata with richer info from TMDB/TVD
 
 ### 3) Import Configuration
 
-- Sidebar → **Configuration** → **Import Configuration** → select the file from step 1
+- **Configuration** tab → **Import Configuration** → select the file from step 1
 
 ### 4) Add API Keys
 
-- Sidebar → **Integrations**
+- **Integrations** tab
   - **TMDB**: paste your key ([TMDB account](/accounts/tmdb))
   - **TVDB**: paste your key ([TVDB account](/accounts/tvdb))
   - **FanArt**: optional; paste key ([FanArt account](/accounts/fanart))
@@ -32,7 +32,7 @@ AIOMetadata replaces Stremio’s default metadata with richer info from TMDB/TVD
 
 ### 5) Save and Install
 
-- Sidebar → **Configuration** → **Save Configuration** → set a password when prompted → **Save**
+- **Configuration** tab → **Save Configuration** → set a password when prompted → **Save**
 - Click **Install** to add AIOMetadata to Stremio (or follow the same install steps as in [/addons/aiostreams](/addons/aiostreams#8-install-into-stremio))
 
 :::: warning Required When Cinemeta Disabled
