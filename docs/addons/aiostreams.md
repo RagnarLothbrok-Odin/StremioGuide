@@ -53,6 +53,10 @@ Open the cloud icon in the sidebar and add the following as prompted:
 
 - Return to the save icon (💾) and click **Save**
 
+::: warning
+If you encounter the error `Addon Torrentio RD is disabled: Private instances only`, navigate back to the addons category and disable Torrentio to resolve the issue.
+:::
+
 ### 7) Optional - Install AIOLists
 
 Adds curated catalogs to populate Stremio:
