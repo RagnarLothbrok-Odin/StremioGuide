@@ -5,7 +5,7 @@ description: The main hub and core addon for your Stremio setup
 
 # AIOStreams Addon
 
-AIOStreams is the core hub of this setup. It aggregates sources, integrates your debrid provider, manages catalogs, and centralizes configuration-so you get a powerful experience with a single addon.
+AIOStreams is the core hub of this setup. It aggregates sources, integrates your debrid provider, manages catalogs, and centralizes configuration — so you get a powerful experience with a single addon.
 
 :::: tip Core Addon
 One addon, many capabilities: discovery, streaming, debrid integration, search, formatting, and more.
