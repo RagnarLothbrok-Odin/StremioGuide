@@ -13,9 +13,9 @@ One addon, many capabilities: discovery, streaming, debrid integration, search, 
 
 ## Choose an Instance
 
-- Official (creator‑hosted): [aiostreams.elfhosted.com](https://aiostreams.elfhosted.com)
-- Community: [aiostreamsfortheweak.nhyira.dev](https://aiostreamsfortheweak.nhyira.dev)
-- Nightly builds: [aiostreamsfortheweebs.midnightignite.me](https://aiostreamsfortheweebs.midnightignite.me)
+- **Official** (creator‑hosted): [aiostreams.elfhosted.com](https://aiostreams.elfhosted.com) - Stable version
+- **Community**: [aiostreamsfortheweak.nhyira.dev](https://aiostreamsfortheweak.nhyira.dev) - Stable version
+- **Nightly builds**: [aiostreamsfortheweebs.midnightignite.me](https://aiostreamsfortheweebs.midnightignite.me) - Gets updates first, may be less stable
 
 :::: warning Torrentio Access
 Torrentio blocks many VPS/VPN IPs. Availability depends on the instance. This guide includes alternatives, so you’ll still have plenty of sources.
