@@ -52,7 +52,7 @@ export default defineConfig({
       options: {
         appId: process.env.APP_ID as string,
         apiKey: process.env.API_KEY as string,
-        indexName: 'stremio'
+        indexName: process.env.INDEX_NAME as string
       }
     },
 
