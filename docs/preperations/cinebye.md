@@ -9,7 +9,7 @@ Tune Stremio with Cinebye so your addon stack behaves consistently.
 
 ## 1) Open Cinebye
 
-- Go to: `https://cinebye.dinsden.top/`
+- Go to: [https://cinebye.dinsden.top/](https://cinebye.dinsden.top/)
 - Click **Authenticate**, sign in with your Stremio account
 
 ## 2) Options (Cinemeta)

@@ -14,8 +14,8 @@ RPDB overlays ratings on posters inside Stremio.
 
 ## Option B - Patreon Subscription
 
-- Subscribe for premium features: `https://www.patreon.com/c/rpdb/membership`
-- Retrieve your API key: `https://ratingposterdb.com/api-key/`
+- Subscribe for premium features: [https://www.patreon.com/c/rpdb/membership](https://www.patreon.com/c/rpdb/membership)
+- Retrieve your API key: [https://ratingposterdb.com/api-key/](https://ratingposterdb.com/api-key/)
 
 Copy the key you choose-you’ll paste it during addon configuration.
 

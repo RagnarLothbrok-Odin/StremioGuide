@@ -10,7 +10,7 @@ Enable automatic scrobbling so your watch history stays in sync.
 ## Steps
 
 1. Make sure you have a Trakt account → [/accounts/trakt](/accounts/trakt)
-2. Open: `https://www.stremio.com/login` and sign in
+2. Open: [https://www.stremio.com/login](https://www.stremio.com/login) and sign in
 3. Sidebar → **Integrations**
 4. Find **Trakt Scrobbling** → click **Authenticate**
 5. Complete the prompts in the new tab

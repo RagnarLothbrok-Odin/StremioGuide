@@ -37,9 +37,9 @@ Scrobbling reports what you're currently watching to Trakt. Sometimes it stops u
 Usually, [re‑authenticating your account](/accounts/trakt) fixes it. It's also worth checking whether others are seeing similar issues [on Reddit](https://www.reddit.com/r/Stremio/) or in the [Stremio Discord server](https://discord.com/invite/zNRf6YF).
 
 You can also verify whether Trakt is experiencing an outage:
-- Trakt status page: https://status.trakt.tv/
-- Trakt on X: https://x.com/trakt
-- Trakt API on X: https://x.com/traktapi
+- Trakt status page: [https://status.trakt.tv/](https://status.trakt.tv/)
+- Trakt on X: [https://x.com/trakt](https://x.com/trakt)
+- Trakt API on X: [https://x.com/traktapi](https://x.com/traktapi)
 
 ## Reset
 
