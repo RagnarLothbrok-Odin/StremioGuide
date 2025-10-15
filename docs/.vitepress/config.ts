@@ -29,7 +29,6 @@ export default defineConfig({
     ["meta", { property: "og:image:height", content: "400" }],
     ["meta", { property: "og:image:alt", content: "Stremio | Guide" }],
     ["meta", { property: "og:image:type", content: "image/png" }],
-    ["meta", { property: "twitter:card", content: "summary_large_image" }],
     ["meta", { property: "twitter:url", content: "https://stremio.valhalladev.org/" }],
     ["meta", { property: "twitter:title", content: "Stremio | Guide" }],
     ["meta", { property: "twitter:description", content: "A comprehensive guide for setting up Stremio streaming application with addons, configurations, and optimization tips" }],
@@ -47,6 +46,15 @@ export default defineConfig({
     nav: [
       { text: 'Home', link: '/' },
     ],
+
+    search: {
+      provider: 'algolia',
+      options: {
+        appId: process.env.APP_ID as string,
+        apiKey: process.env.API_KEY as string,
+        indexName: 'stremio'
+      }
+    },
 
     sidebar: [
       {
