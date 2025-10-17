@@ -71,3 +71,4 @@ env:
   APP_ID: ${{ secrets.APP_ID }}
   API_KEY: ${{ secrets.API_KEY }}
   INDEX_NAME: ${{ secrets.INDEX_NAME }}
+  ASK_AI: ${{ secrets.ASK_AI }}
