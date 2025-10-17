@@ -43,4 +43,4 @@ We've created a script that displays your current Trakt viewing activity as Disc
 **Requirements:**
 - Must be running on the same device as Discord
 - Discord application must be open
-- Note: This script connects to Trakt, not directly to Stremio
+- **Note:** This script connects to Trakt, not directly to Stremio
