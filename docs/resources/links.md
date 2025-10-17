@@ -32,3 +32,15 @@ A curated set of official pages and tools used in this guide.
 - The Stremio team for tirelessly maintaining the app
 - All addon developers who build and maintain the ecosystem
 - [Viren070](https://github.com/Viren070) for the countless hours poured into `AIOStreams`, unifying many addons under one configurable experience
+
+## Bonus
+
+### Discord Rich Presence
+We've created a script that displays your current Trakt viewing activity as Discord Rich Presence. This tool connects directly to your Trakt account to show what you're watching.
+
+**Repository:** https://github.com/Valhalla-Development/TraktDiscordPresence
+
+**Requirements:**
+- Must be running on the same device as Discord
+- Discord application must be open
+- Note: This script connects to Trakt, not directly to Stremio
