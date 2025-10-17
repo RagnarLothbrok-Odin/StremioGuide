@@ -4,7 +4,7 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   base: '/',
   lang: 'en-US',
-  title: "Stremio Guide",
+  title: "​",
   description: "A comprehensive guide for setting up Stremio streaming application with addons, configurations, and optimization tips.",
 
   lastUpdated: true,
