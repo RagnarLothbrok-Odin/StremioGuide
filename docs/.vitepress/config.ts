@@ -4,7 +4,7 @@ import { defineConfig } from 'vitepress'
 export default defineConfig({
   base: '/',
   lang: 'en-US',
-  title: "Stremio Setup",
+  title: "Stremio Guide",
   description: "A comprehensive guide for setting up Stremio streaming application with addons, configurations, and optimization tips.",
 
   lastUpdated: true,
@@ -15,8 +15,8 @@ export default defineConfig({
     ['meta', { name: 'theme-color', content: '#1155D9' }],
     ["meta", { name: "apple-mobile-web-app-capable", content: "yes" }],
     ["meta", { name: "apple-mobile-web-app-status-bar-style", content: "black" }],
-    ["meta", { name: "apple-mobile-web-app-title", content: "Stremio Setup" }],
-    ["meta", { name: "application-name", content: "Stremio Setup" }],
+    ["meta", { name: "apple-mobile-web-app-title", content: "Stremio Guide" }],
+    ["meta", { name: "application-name", content: "Stremio Guide" }],
     ["meta", { name: "msapplication-TileColor", content: "#000000" }],
     ["meta", { name: "theme-color", content: "#1155D9" }],
     ["meta", { name: "viewport", content: "width=device-width, initial-scale=1" }],

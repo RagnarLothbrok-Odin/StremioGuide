@@ -4,7 +4,7 @@ layout: home
 title: 'Home'
 
 hero:
-  name: "Stremio Setup"
+  name: "Stremio Guide"
   text: "Your complete Stremio streaming setup"
   tagline: A polished, opinionated guide to building a fast, stable, beautiful Stremio experience.
   actions:
