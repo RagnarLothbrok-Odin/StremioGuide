@@ -1,7 +1,7 @@
 ---
 layout: home
 
-title: 'Home'
+title: 'Stremio Guide'
 
 hero:
   name: "Stremio Guide"
