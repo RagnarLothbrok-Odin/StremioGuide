@@ -123,6 +123,11 @@ export default defineConfig({
         items: [
           { text: 'Overview', link: '/troubleshooting/overview' },
         ],
+      },
+      {
+        items: [
+          { text: 'Contributing', link: '/contributing' }
+        ]
       }
     ],
 
