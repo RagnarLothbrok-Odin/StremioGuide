@@ -32,3 +32,5 @@ features:
     title: Copy‑Paste Configs
     details: Prebuilt configurations and templates you can import and tweak in seconds.
 ---
+
+<Contributor />
