@@ -1,13 +1,13 @@
 {
-  "name": "stremio-setup",
+  "name": "stremioguide",
   "version": "1.0.63",
   "description": "A comprehensive guide for setting up Stremio streaming application with addons, configurations, and optimization tips",
   "license": "GPL-3.0-or-later",
   "author": "Ragnar Lothbrok <ragnarlothbrokjr@proton.me>",
-  "homepage": "https://github.com/RagnarLothbrok-Odin/Stremio-Setup#readme",
-  "repository": "https://github.com/RagnarLothbrok-Odin/Stremio-Setup.git",
+  "homepage": "https://github.com/RagnarLothbrok-Odin/StremioGuide#readme",
+  "repository": "https://github.com/RagnarLothbrok-Odin/StremioGuide.git",
   "bugs": {
-    "url": "https://github.com/RagnarLothbrok-Odin/Stremio-Setup/issues"
+    "url": "https://github.com/RagnarLothbrok-Odin/StremioGuide/issues"
   },
   "type": "module",
   "scripts": {
