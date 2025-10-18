@@ -17,7 +17,7 @@ This can happen with this configuration because we [disabled Cinemeta search](/p
 It's rare but possible to encounter an audio codec your device doesn't support. This is more common on desktop environments than on Android TV devices. If this happens, either select a source with a supported audio codec or exclude the unsupported codec in your AIOStreams filters. [See filters](/configuration/filters).
 
 ### Purple/Green Tint
-Similar to audio, video codec or format issues can cause a purple/green tint. This often happens when playing HDR or Dolby Vision on a device that doesn't support those formats. Select a different source or exclude these formats in your AIOStreams configuration.
+Similar to audio issues, video codec or format problems can cause a purple/green tint. This often happens when playing HDR or Dolby Vision on a device that doesn't support those formats. Select a different source or exclude these formats in your AIOStreams configuration.
 
 ### Buffering
 This setup prioritizes the highest‑quality sources and does not account for your internet speed. If you experience buffering, the most common cause is that the file's bitrate/size is too high for your connection. Try a source with a smaller file size; if that fixes it, set a maximum file size in AIOStreams [configuration](/configuration/filters). You can also exclude 4K streams on slower connections, as 4K files are typically much larger.
