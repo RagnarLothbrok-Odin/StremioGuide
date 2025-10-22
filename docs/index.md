@@ -17,6 +17,10 @@ hero:
     - theme: alt
       text: Configuration
       link: configuration/formatter
+    - theme: alt
+      text: Resources
+      link: resources/links
+
 
 features:
   - icon: 🎬
