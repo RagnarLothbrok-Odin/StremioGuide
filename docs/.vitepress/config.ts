@@ -50,6 +50,9 @@ export default defineConfig({
 
     nav: [
       { text: 'Home', link: '/' },
+      { text: 'Addons', link: '/addons/overview' },
+      { text: 'Configuration', link: '/configuration/formatter' },
+      { text: 'Resources', link: '/resources/links' },
     ],
 
     search: {
