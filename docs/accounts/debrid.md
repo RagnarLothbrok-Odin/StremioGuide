@@ -19,7 +19,13 @@ For most users, **Real‑Debrid** offers the best value. If you need multi‑IP,
 
 ## Choose a Provider
 
+Listing every option is nearly impossible. The two main ones are **Real-Debrid** and **Premiumize**, but many others are supported.  
+For a detailed comparison, see this community-maintained chart:  
+https://debridcompare.xyz/#debrid-pricing-comparison
+
+
 - Real‑Debrid - [real-debrid.com](https://real-debrid.com/)
+- Premiumize - [premiumize.me](https://www.premiumize.me/)
 - TorBox - [torbox.app](https://www.torbox.app/) (fair‑use multi‑IP; smaller cache than RD)
 
 ## Create Your Account
