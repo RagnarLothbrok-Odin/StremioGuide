@@ -6,7 +6,8 @@ description: Official sites, addon pages, and services referenced throughout thi
 # Configuration
 
 Our carefully crafted configuration files:
-- [AIOStreams config](https://share.valhalladev.org/u/aiostreams-config.json?download=true)
+- [AIOStreams template](https://share.valhalladev.org/u/stremioguide-configuration-template.json)
+- [AIOStreams template (*direct download*)](https://share.valhalladev.org/u/stremioguide-configuration-template.json?download=true)
 - [AIOMetadata config](https://share.valhalladev.org/u/aiometadata-config.json?download=true)
 
 # Links
