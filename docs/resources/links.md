@@ -3,6 +3,12 @@ title: Links
 description: Official sites, addon pages, and services referenced throughout this guide
 ---
 
+# Configuration
+
+Our carefully crafted configuration files:
+- [AIOStreams config](https://share.valhalladev.org/u/aiostreams-config.json?download=true)
+- [AIOMetadata config](https://share.valhalladev.org/u/aiometadata-config.json?download=true)
+
 # Links
 
 A curated set of official pages and tools used in this guide.
@@ -10,6 +16,7 @@ A curated set of official pages and tools used in this guide.
 ### Stremio
 - [Stremio](https://www.stremio.com)
 - [Stremio Addon Browser](https://stremio-addons.net)
+- [Cinebye](https://cinebye.dinsden.top)
 
 ### Addons
 - [AIOStreams](https://github.com/Viren070/AIOStreams)
