@@ -14,8 +14,9 @@ One addon, many capabilities: discovery, streaming, debrid integration, search, 
 ## Choose an Instance
 Select which AIOStreams instance to use. Some are more stable, others get updates first.
 
-- **Official** (creator‑hosted): [aiostreams.elfhosted.com](https://aiostreams.elfhosted.com) - Stable version
+- **Official** (creator‑hosted): [aiostreams.elfhosted.com](https://aiostreams.elfhosted.com) - Stable version *Torrentio disabled**
 - **Community**: [aiostreamsfortheweak.nhyira.dev](https://aiostreamsfortheweak.nhyira.dev) — Stable version
+- **Stable**: [aiostreamsfortheweebsstable.midnightignite.me](https://aiostreamsfortheweebsstable.midnightignite.me) - Stable versiom
 - **Nightly builds**: [aiostreamsfortheweebs.midnightignite.me](https://aiostreamsfortheweebs.midnightignite.me) — Updated first, may be less stable
 
 :::: warning Torrentio Access
