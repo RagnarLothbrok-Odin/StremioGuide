@@ -119,7 +119,7 @@ export default defineConfig({
         text: "Resources",
         collapsed: false,
         items: [
-          { text: 'Trakt Lists', link: '/resources/trakt' },
+          { text: 'Lists', link: '/resources/lists' },
           { text: 'Links', link: '/resources/links' },
         ],
       },
