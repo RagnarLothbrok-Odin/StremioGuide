@@ -30,6 +30,14 @@ AIOMetadata replaces Stremio’s default metadata with richer info from TMDB/TVD
   - **RPDB**: optional; use `t0-free-rpdb` or your own key ([RPDB account](/accounts/rpdb))
   - **MDbList**: leave blank
 
+### Catalog Management
+Drag to reorder catalogs in the `Catalogs` page; disable by toggling the 👁️ icon on the corresponding catalog item.
+
+:::: danger Important
+Catalog changes aren’t pushed automatically. If you change catalogs in the future, uninstall and reinstall AIOMetadata in Stremio to refresh. 
+Remember to use [Cinebye](cinebye) to reorder your addons and ensure AIOMetadata is placed at the very top of the list.
+::::
+
 ### 5) Save and Install
 
 - **Configuration** tab → **Save Configuration** → set a password when prompted → **Save**
