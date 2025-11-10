@@ -22,7 +22,7 @@ A curated set of official pages and tools used in this guide.
 ### Addons
 - [AIOStreams](https://github.com/Viren070/AIOStreams)
 - [AIOStreams Discord](https://discord.viren070.me)
-- [AIOLists](https://aiolists.elfhosted.com)
+- [AIOMetadata](https://aiometadatafortheweak.nhyira.dev)
 - [Torrentio](https://torrentio.strem.fun)
 - [Comet](https://comet.elfhosted.com)
 - [MediaFusion](https://mediafusion.elfhosted.com)
